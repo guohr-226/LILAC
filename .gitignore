@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+temp/
+result/
+openai_key.txt
+full_dataset/
+*.log
+*.zip
+*.tar.gz
+.vscode/
+sampling/lilac.txt

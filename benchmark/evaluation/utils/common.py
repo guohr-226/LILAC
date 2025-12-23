@@ -102,7 +102,7 @@ def common_args():
     parser.add_argument('--example_size', type=int,
                         default=0)
     parser.add_argument('--model', type=str,
-                        default="gpt-3.5-turbo-0613")
+                        default="qwen-turbo")
     parser.add_argument('--selection_method', type=str,
                         default="LILAC")    
     args = parser.parse_args()
